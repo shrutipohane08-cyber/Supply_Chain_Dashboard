@@ -1,3 +1,4 @@
 # Supply_Chain_Dashboard (Tableau)
 Built an interactive dashboard to analyze sales, profitability, inventory health, and warehouse performance. Created KPIs and         dynamic filters to generate actionable business insights..
 > "C:\Users\shrut\OneDrive\Pictures\order&Performance.png"
+<img width="960" height="600" alt="Screenshot 2026-08-11 120518" src="https://github.com/user-attachments/assets/a8ce3242-3d9e-401c-b2da-aeca1c7917dc" />
