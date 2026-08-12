@@ -3,6 +3,10 @@
 📌 Project Overview
 
 This project is an interactive Tableau Supply Chain Analytics Dashboard developed to provide end-to-end insights into order and delivery performance, supplier performance, inventory health, and overall business performance. The dashboard helps stakeholders monitor important supply chain KPIs, identify operational issues, and make data-driven decisions.
+
+🚀 View Interactive Tableau Dashboard
+
+https://public.tableau.com/app/profile/shruti.pohane/viz/tsupply_chain_tableau_dashboardfinal/SupplyChain?publish=yes
 > "C:\Users\shrut\OneDrive\Pictures\order&Performance.png"
 <img width="960" height="600" alt="Screenshot 2026-08-11 120518" src="https://github.com/user-attachments/assets/a8ce3242-3d9e-401c-b2da-aeca1c7917dc" />
 
